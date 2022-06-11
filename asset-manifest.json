@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/biboxLabs/static/css/main.da3345cf.css",
+    "main.js": "/biboxLabs/static/js/main.18844d3b.js",
+    "index.html": "/biboxLabs/index.html",
+    "main.da3345cf.css.map": "/biboxLabs/static/css/main.da3345cf.css.map",
+    "main.18844d3b.js.map": "/biboxLabs/static/js/main.18844d3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3345cf.css",
+    "static/js/main.18844d3b.js"
+  ]
+}
