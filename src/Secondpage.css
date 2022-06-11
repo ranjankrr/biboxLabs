@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.list-items{
+    box-shadow: 2px 6px 10px gray;
+    width:210px;
+    height:300px;
+    margin:20px;
+}
+.list-items:hover{
+    transform: scale(0.99);
+}
+.list-container{
+    display: inline-block;
+}
+.name{
+    color:red;
+    margin:5px;
+}
+.price{
+    color:green;
+    margin :5px;
+}
+a{
+    text-decoration: none;
+    margin-left:5px;
+}
+a:hover{
+    text-decoration: underline;
+}
+.cheekBox{
+    margin-left: 50px;
+}
+.list-img{
+    border-bottom: 2px solid black;
+    width:210px;
+    height:200px;
+}
+.drag-down{
+    background-color: brown;
+    height:400px;
+    margin-top: 50px;
+}
+.drag-down select{
+    width:300px;
+    border:0px;
+    border-radius: 50px;
+    outline: none;
+    margin-top:100px;
+    margin-left:450px;
+    padding: 5px;
+}

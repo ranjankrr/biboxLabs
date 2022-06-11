@@ -1,0 +1,13 @@
+.btn{
+    display:flex;
+    justify-content: center;
+    gap:10px;
+}
+.btn button{
+    border-radius: 50px;
+    background-color: gray;
+    color: white;
+    width:10px;
+    height:10px;
+    border:0px;
+}
